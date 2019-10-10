@@ -5,6 +5,7 @@ function dwarfRollCall(dwarves) {
 }
 
 function summonCaptainPlanet(planeteerCalls){
+  var 
 }
 
 function longPlaneteerCalls(words) {
