@@ -17,7 +17,7 @@ function summonCaptainPlanet(planeteerCalls){
 function longPlaneteerCalls(words) {
   var long = false
   for (var i = 0; i < words.length; i++){
-    if (word[i].length > 4){
+    if (words[i].length > 4){
       long = true
     }
   }
